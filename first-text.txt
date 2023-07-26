@@ -1,2 +1,3 @@
 i am Palwinder singh
 Today we will discuss git
+we will also learn about Branching
